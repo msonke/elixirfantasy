@@ -7,9 +7,16 @@ Just a fun fantasy sports game built in Elixir. Will take data from a public API
 ## To Do
 
 - Fill out dummy data
+- HTMX Frontend
 - Write Main Listener
 - Game Logic
 - Game History
+
+# Functions
+
+## processing.go
+
+Pulls API Data, Processes, Caches
 
 # Listeners
 
